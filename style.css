@@ -1,0 +1,201 @@
+*{
+    padding:0;
+    margin:0;
+    
+    
+}
+
+header{
+    background-color: rgb(33, 30, 30);
+    display:flex;
+    justify-content:center;
+    width:100vw;
+}
+
+#pokemon-letter-img{
+    height:100px;
+    width:250px;
+    background-color: rgb(33, 30, 30);
+
+}
+
+.content{
+    /* display:flex;
+    align-items: flex-start; */
+    height:100vh;
+    width:100vw;
+    padding:20px;
+    display:flex;
+    flex-direction: row;
+    gap:80px;
+    padding-left: 80px;
+    
+}
+
+.pikachu-card {
+    background-color:rgb(33, 30, 30);
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    height:400px;
+    width:300px;
+    padding:20px;
+    position:relative;
+    border-radius:10px;
+    
+    
+    
+}
+
+.eevee-card {
+    background-color:rgb(33, 30, 30);
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    height:400px;
+    width:300px;
+    padding:20px;
+    position:relative;
+    border-radius:10px;
+    
+    
+    
+}
+
+.charizard-card {
+    background-color:rgb(33, 30, 30);
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    height:400px;
+    width:300px;
+    padding:20px;
+    position:relative;
+    border-radius:10px;
+    
+    
+    
+}
+
+.pikachu-name{
+    background-color:yellow;
+    display:inline;
+    text-align:center;
+    position:relative;
+
+}
+
+.eevee-name{
+    background-color:burlywood;
+    display:inline;
+    text-align:center;
+    position:relative;
+
+}
+
+.charizard-name{
+    background-color:orange;
+    display:inline;
+    text-align:center;
+    position:relative;
+
+}
+
+.pikachu-image {
+    height:180px;
+    width:160px;
+    background-color:grey;
+    border-radius: 10px;
+}
+
+.eevee-image {
+    height:180px;
+    width:160px;
+    background-color:grey;
+    border-radius: 10px;
+}
+
+.charizard-image {
+    height:180px;
+    width:160px;
+    background-color:grey;
+    border-radius: 10px;
+}
+
+.pikachu-features {
+    background-color: lightblue;
+    border-radius:5px;
+    padding: 5px;
+    
+}
+
+.eevee-features {
+    background-color: lightblue;
+    border-radius:5px;
+    padding: 5px;
+    
+}
+
+.charizard-features {
+    background-color: lightblue;
+    border-radius:5px;
+    padding: 5px;
+    
+}
+
+
+
+
+
+
+
+
+
+/* body{
+    display:flex;
+    justify-content:center;
+
+    height:100vh;
+    
+}
+
+header{
+    display:inline;
+    bottom:30px;
+}
+
+#pokemon-letter-img{
+    height:100px;
+    width:100px;
+    background-color:black;
+}
+
+.pikachu-card{
+    width:300px;
+    background-color:#FFDE00;
+    border: 5px solid #3B4CCA;
+    border-radius:25px;
+    padding:20px;
+    text-align:center;
+    box-shadow:10px 10px 0px #CC0000;
+}
+
+.pikachu-image{
+    width:150px;
+    background:white;
+    border-radius:25px;
+    padding:20px;
+    text-align:center;
+    box-shadow:10px 10px 0px #CC0000;
+
+}
+
+.pikachu-features{
+    text-align:left;
+    background:rgba(255,255,255,0.5);
+    padding:10px;
+    border-radius:10px;
+} */
